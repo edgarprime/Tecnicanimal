@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Tecnicanimal</title>
-    <link>https://example.com/page/</link>
+    <link>https://tecnicanimal.netlify.app/page/</link>
     <description>Recent content in Pages on Tecnicanimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tecnicanimal.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://tecnicanimal.netlify.app/about/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://tecnicanimal.netlify.app/about/</guid>
       <description>Hi, I am Alessandro and i wanted to create this site in order to experiment writing articles and share some of my thoughts about tech, videogames and science.
 That&amp;rsquo;s it, I hope you enjoy.</description>
     </item>
     
     <item>
       <title>Archives</title>
-      <link>https://example.com/archives/</link>
+      <link>https://tecnicanimal.netlify.app/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>https://tecnicanimal.netlify.app/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://example.com/search/</link>
+      <link>https://tecnicanimal.netlify.app/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/search/</guid>
+      <guid>https://tecnicanimal.netlify.app/search/</guid>
       <description></description>
     </item>
     

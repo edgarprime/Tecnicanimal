@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>science on Tecnicanimal</title>
-    <link>https://example.com/categories/science/</link>
+    <link>https://tecnicanimal.netlify.app/categories/science/</link>
     <description>Recent content in science on Tecnicanimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tecnicanimal.netlify.app/categories/science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi.</title>
-      <link>https://example.com/p/hi./</link>
+      <link>https://tecnicanimal.netlify.app/p/hi./</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/p/hi./</guid>
+      <guid>https://tecnicanimal.netlify.app/p/hi./</guid>
       <description>questa è una prova.</description>
     </item>
     

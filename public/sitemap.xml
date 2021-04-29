@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://tecnicanimal.netlify.app/about/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://tecnicanimal.netlify.app/categories/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/from-software/</loc>
+    <loc>https://tecnicanimal.netlify.app/tags/from-software/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/hi./</loc>
+    <loc>https://tecnicanimal.netlify.app/p/hi./</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://tecnicanimal.netlify.app/page/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://tecnicanimal.netlify.app/post/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/reviews/</loc>
+    <loc>https://tecnicanimal.netlify.app/categories/reviews/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/science/</loc>
+    <loc>https://tecnicanimal.netlify.app/categories/science/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/sekiro/</loc>
+    <loc>https://tecnicanimal.netlify.app/tags/sekiro/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://tecnicanimal.netlify.app/tags/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/tech/</loc>
+    <loc>https://tecnicanimal.netlify.app/categories/tech/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://tecnicanimal.netlify.app/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/videogames/</loc>
+    <loc>https://tecnicanimal.netlify.app/categories/videogames/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://tecnicanimal.netlify.app/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://tecnicanimal.netlify.app/search/</loc>
   </url>
 </urlset>
