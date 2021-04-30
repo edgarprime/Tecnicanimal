@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tecnicanimal</title>
-    <link>tecnicanimal.me/categories/</link>
+    <link>https://tecnicanimal.me/categories/</link>
     <description>Recent content in Categories on Tecnicanimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="tecnicanimal.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tecnicanimal.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>reviews</title>
-      <link>tecnicanimal.me/categories/reviews/</link>
+      <link>https://tecnicanimal.me/categories/reviews/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>tecnicanimal.me/categories/reviews/</guid>
+      <guid>https://tecnicanimal.me/categories/reviews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>science</title>
-      <link>tecnicanimal.me/categories/science/</link>
+      <link>https://tecnicanimal.me/categories/science/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>tecnicanimal.me/categories/science/</guid>
+      <guid>https://tecnicanimal.me/categories/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>tecnicanimal.me/categories/tech/</link>
+      <link>https://tecnicanimal.me/categories/tech/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>tecnicanimal.me/categories/tech/</guid>
+      <guid>https://tecnicanimal.me/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>videogames</title>
-      <link>tecnicanimal.me/categories/videogames/</link>
+      <link>https://tecnicanimal.me/categories/videogames/</link>
       <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>tecnicanimal.me/categories/videogames/</guid>
+      <guid>https://tecnicanimal.me/categories/videogames/</guid>
       <description></description>
     </item>
     
