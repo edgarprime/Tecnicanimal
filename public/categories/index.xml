@@ -6,11 +6,20 @@
     <description>Recent content in Categories on Tecnicanimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tecnicanimal.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tecnicanimal.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>videogames</title>
+      <link>https://tecnicanimal.me/categories/videogames/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tecnicanimal.me/categories/videogames/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>reviews</title>
       <link>https://tecnicanimal.me/categories/reviews/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tecnicanimal.me/categories/reviews/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>science</title>
       <link>https://tecnicanimal.me/categories/science/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tecnicanimal.me/categories/science/</guid>
       <description></description>
@@ -28,18 +37,9 @@
     <item>
       <title>tech</title>
       <link>https://tecnicanimal.me/categories/tech/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tecnicanimal.me/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videogames</title>
-      <link>https://tecnicanimal.me/categories/videogames/</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tecnicanimal.me/categories/videogames/</guid>
       <description></description>
     </item>
     
