@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tecnicanimal</title>
-        <link>https://tecnicanimal.netlify.app/</link>
+        <link>tecnicanimal.me/</link>
         <description>Recent content on Tecnicanimal</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tecnicanimal.netlify.app/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="tecnicanimal.me/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hi.</title>
-        <link>https://tecnicanimal.netlify.app/p/hi./</link>
+        <link>tecnicanimal.me/p/hi./</link>
         <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://tecnicanimal.netlify.app/p/hi./</guid>
-        <description>&lt;img src="https://tecnicanimal.netlify.app/p/hi./mountain-477832_1920.jpg" alt="Featured image of post Hi." /&gt;&lt;p&gt;questa è una prova.&lt;/p&gt;
+        <guid>tecnicanimal.me/p/hi./</guid>
+        <description>&lt;img src="/tecnicanimal.me/p/hi./mountain-477832_1920.jpg" alt="Featured image of post Hi." /&gt;&lt;p&gt;questa è una prova.&lt;/p&gt;
 
 </description>
         </item>

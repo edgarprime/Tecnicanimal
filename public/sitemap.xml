@@ -2,48 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tecnicanimal.netlify.app/about/</loc>
+    <loc>tecnicanimal.me/about/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/categories/</loc>
+    <loc>tecnicanimal.me/categories/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/tags/from-software/</loc>
+    <loc>tecnicanimal.me/tags/from-software/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/p/hi./</loc>
+    <loc>tecnicanimal.me/p/hi./</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/page/</loc>
+    <loc>tecnicanimal.me/page/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>tecnicanimal.me/post/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/post/</loc>
+    <loc>tecnicanimal.me/privacy/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>tecnicanimal.me/categories/reviews/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/categories/reviews/</loc>
+    <loc>tecnicanimal.me/categories/science/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/categories/science/</loc>
+    <loc>tecnicanimal.me/tags/sekiro/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/tags/sekiro/</loc>
+    <loc>tecnicanimal.me/tags/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/tags/</loc>
+    <loc>tecnicanimal.me/categories/tech/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/categories/tech/</loc>
+    <loc>tecnicanimal.me/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>tecnicanimal.me/categories/videogames/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tecnicanimal.netlify.app/categories/videogames/</loc>
-    <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tecnicanimal.netlify.app/archives/</loc>
+    <loc>tecnicanimal.me/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.netlify.app/search/</loc>
+    <loc>tecnicanimal.me/search/</loc>
   </url>
 </urlset>
