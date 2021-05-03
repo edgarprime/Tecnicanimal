@@ -50,11 +50,11 @@ Here on the right side if it is the first time you connect your headset the defa
 
 ![foto2](/img/foto2.png)
 
-You’ll be presented with three different options for enabling spatial audio: **Windows Sonic for Headphones**, **Dolby Atmos for Headphones** and **DTS Headphones:X**. 
+You’ll be presented with three different options for enabling virtual spatial audio: **Windows Sonic for Headphones**, **Dolby Atmos for Headphones** and **DTS Headphones:X**. 
 
 ![foto3](/img/foto3.png)
 
-I recommend trying out Windows Sonic first, since it is the free alternative. From there, if you feel like you can take advantage of the free trial period of the other two options which are available only after having downloaded the Dolby Access or DTS Sound Unbound app respectively.
+I recommend trying out Windows Sonic first, since it is the free alternative. From there, if you feel like it, you can take advantage of the free trial period of the other two options which are available only after having downloaded the Dolby Access or DTS Sound Unbound app respectively.
 
 As I mentioned before, for those of you connecting your headphones to the tv or to a HDMI receiver, you’ll simply need to tick the checkbox Using an HDMI headset.
 
@@ -64,16 +64,10 @@ As I mentioned before, for those of you connecting your headphones to the tv or 
 
 ## Considerations and further tips
 
-People on online forums, seem to suggest that Windows Sonic for Headphones works well for all types of content, while Dolby Atmos for headphones works best for movies (you can even use it for movies that support Dolby Atmos on Netflix).
+People on online forums seem to suggest that Windows Sonic for Headphones works well for all types of content, while Dolby Atmos for headphones works best for movies (you can even use it for movies that support Dolby Atmos on Netflix).
 A note on **in-game audio settings**, from my experience, and from official settings recommended by Dolby, the best results are obtained selecting the generic “Headphones” audio preset. This way you basically avoid stacking two virtual surround effects on game audio tracks, which would result in distortion. 
 
 For a technical explanation of how these technologies can achieve a virtual spatial sound effect using stereo headphones I suggest to take a look at [*this interesting article*](https://www.waves.com/3d-audio-on-headphones-how-does-it-work). 
 
 That’s all, thank you for making it through 🎮.
 
-
-{{< css.inline >}}
-<style>
-.canon { background: white; width: 100%; height: auto; }
-</style>
-{{< /css.inline >}}
