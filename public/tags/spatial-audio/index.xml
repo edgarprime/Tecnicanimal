@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spatial audio on Tecnicanimal</title>
+    <link>https://tecnicanimal.me/tags/spatial-audio/</link>
+    <description>Recent content in spatial audio on Tecnicanimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tecnicanimal.me/tags/spatial-audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xbox Series X Spatial Audio Setup</title>
+      <link>https://tecnicanimal.me/p/xbox-series-x-spatial-audio-setup/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tecnicanimal.me/p/xbox-series-x-spatial-audio-setup/</guid>
+      <description>Introduction: Importance of audio A good gaming experience is not all about graphics and frame rate. Although they play a big role in making a videogame immersive, in my experience audio is one of the major components that drives sensations when experiencing digital content. The same goes for movies according to George Lucas.
+ While stereo sound is one-dimensional, since it’s coming from the front, left and right, surround sound added a second dimension with sound coming from the back.</description>
+    </item>
+    
+  </channel>
+</rss>
