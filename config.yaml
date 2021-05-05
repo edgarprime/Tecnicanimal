@@ -23,7 +23,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: 
+    favicon:
 
     footer:
         since: 2020
@@ -131,6 +131,9 @@ related:
 markup:
     highlight:
         noClasses: false
+    goldmark:
+        renderer:
+            unsafe: true
 
 privacy:
   disqus:

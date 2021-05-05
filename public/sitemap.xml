@@ -2,31 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tecnicanimal.me/gallery/</loc>
+    <loc>https://tecnicanimal.me/tags/alpine-ibex/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.me/page/</loc>
+    <loc>https://tecnicanimal.me/categories/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tecnicanimal.me/categories/creativity/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tecnicanimal.me/tags/italian-alps/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tecnicanimal.me/tags/photo-gallery/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tecnicanimal.me/post/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tecnicanimal.me/categories/science/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tecnicanimal.me/tags/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tecnicanimal.me/</loc>
     <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tecnicanimal.me/categories/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+    <loc>https://tecnicanimal.me/p/the-alpine-ibex/</loc>
+    <lastmod>2021-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tecnicanimal.me/tags/headphones/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tecnicanimal.me/post/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tecnicanimal.me/tags/series-x/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tecnicanimal.me/tags/spatial-audio/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tecnicanimal.me/tags/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tecnicanimal.me/categories/videogames/</loc>
@@ -41,6 +53,9 @@
     <loc>https://tecnicanimal.me/about/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tecnicanimal.me/page/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tecnicanimal.me/privacy/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -48,8 +63,6 @@
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tecnicanimal.me/categories/reviews/</loc>
-  </url><url>
-    <loc>https://tecnicanimal.me/categories/science/</loc>
   </url><url>
     <loc>https://tecnicanimal.me/search/</loc>
   </url><url>
