@@ -7,6 +7,6 @@ outputs:
     - json
 menu:
     main:
-        weight: -50
+        weight: -40
         pre: search
 ---
