@@ -230,35 +230,32 @@
 <p>If you want to contact me for any reason, feel free to do that by filling the contact form below.</p>
 <form name="contact" method="POST" data-netlify="true">
   <div class="form-group row">
-    <label for="name" class="col-4 col-form-label">Name</label>
     <div class="col-8">
       <div class="input-group">
         <div class="input-group-addon">
           <i class="fa fa-user"></i>
         </div>
-        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
+        <input id="name" name="name" placeholder="Name" type="text" required="required" class="form-control">
       </div>
     </div>
   </div>
   <div class="form-group row">
-    <label for="email" class="col-4 col-form-label">E-mail address</label>
     <div class="col-8">
       <div class="input-group">
         <div class="input-group-addon">
           <i class="fa fa-envelope"></i>
         </div>
-        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
+        <input id="email" name="email" placeholder="E-mail Address" type="text" required="required" class="form-control">
       </div>
     </div>
   </div>
   <div class="form-group row">
-    <label for="message" class="col-4 col-form-label">Message</label>
     <div class="col-8">
-      <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control"></textarea>
+      <textarea id="message" name="message" placeholder="Message" cols="40" rows="10" required="required" class="form-control"></textarea>
     </div>
   </div>
   <div class="field">
-  <div data-netlify-recaptcha></div>
+  <div data-netlify-recaptcha="true"></div>
   </div>
   <div class="form-group row">
     <div class="offset-4 col-8">
