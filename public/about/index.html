@@ -221,13 +221,51 @@
 </header>
 
     <section class="article-content">
-    <p>Hi, I am Alessandro and i wanted to create this site in order to experiment writing articles and share some of my thoughts about tech, videogames and science.</p>
+    <p>Hi, I am Alessandro and I created this site in order to experiment writing articles and share some of my thoughts about tech, videogames and science.</p>
 <p>This is a static site built with <a class="link" href="https://gohugo.io"  target="_blank" rel="noopener"
     >Hugo</a>, hosted on <a class="link" href="https://github.com"  target="_blank" rel="noopener"
     >Github</a> and deployed through <a class="link" href="https://www.netlify.com"  target="_blank" rel="noopener"
     >Netlify</a>. The theme i am using is <a class="link" href="https://themes.gohugo.io/hugo-theme-stack/"  target="_blank" rel="noopener"
     >this one</a>.</p>
-<p>That&rsquo;s it, I hope you enjoy.</p>
+<p>If you want to contact me for any reason, feel free to do that by filling the contact form below.</p>
+<form name="contact" method="POST" data-netlify="true">
+  <div class="form-group row">
+    <label for="name" class="col-4 col-form-label">Name</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-user"></i>
+        </div>
+        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control">
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="email" class="col-4 col-form-label">E-mail address</label>
+    <div class="col-8">
+      <div class="input-group">
+        <div class="input-group-addon">
+          <i class="fa fa-envelope"></i>
+        </div>
+        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
+      </div>
+    </div>
+  </div>
+  <div class="form-group row">
+    <label for="message" class="col-4 col-form-label">Message</label>
+    <div class="col-8">
+      <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control"></textarea>
+    </div>
+  </div>
+  <div class="field">
+  <div data-netlify-recaptcha></div>
+  </div>
+  <div class="form-group row">
+    <div class="offset-4 col-8">
+      <button name="submit" type="submit" class="btn btn-primary">Send</button>
+    </div>
+  </div>
+</form>
 
 </section>
 
