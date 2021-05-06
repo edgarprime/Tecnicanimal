@@ -34,7 +34,9 @@ This altitude corresponds to the snow line in the spring, where ibexes tend to l
 
 The following photographs capture a small group of males wandering near the aforementioned mountain hut.
 
-![](alpine_ibex_in_fog.jpeg) ![](alpine_ibex.jpeg)
+![](alpine_ibex_in_fog.jpeg) ![](eating_grass.jpeg) ![](mountain.jpeg)
+
+![](alpine_ibex.jpeg)
 
 ![](alpine_ibex_scratching.jpeg) ![](alpine_ibex_couple.jpeg)
 

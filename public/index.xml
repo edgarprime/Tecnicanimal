@@ -35,7 +35,26 @@
 				&gt;
 		&lt;/a&gt;
 		
-	&lt;/figure&gt; &lt;figure style=&#34;flex-grow: 150; flex-basis: 360px&#34;&gt;
+	&lt;/figure&gt; &lt;figure style=&#34;flex-grow: 149; flex-basis: 359px&#34;&gt;
+		&lt;a href=&#34;https://tecnicanimal.me/p/the-alpine-ibex/eating_grass.jpeg&#34; data-size=&#34;2998x2000&#34;&gt;&lt;img src=&#34;https://tecnicanimal.me/p/the-alpine-ibex/eating_grass.jpeg&#34;
+				srcset=&#34;https://tecnicanimal.me/p/the-alpine-ibex/eating_grass_hue3a11a9a59b25d64d7ea52d9d129abb7_635838_480x0_resize_q75_box.jpeg 480w, https://tecnicanimal.me/p/the-alpine-ibex/eating_grass_hue3a11a9a59b25d64d7ea52d9d129abb7_635838_1024x0_resize_q75_box.jpeg 1024w&#34;
+				width=&#34;2998&#34;
+				height=&#34;2000&#34;
+				loading=&#34;lazy&#34;
+				&gt;
+		&lt;/a&gt;
+		
+	&lt;/figure&gt; &lt;figure style=&#34;flex-grow: 66; flex-basis: 159px&#34;&gt;
+		&lt;a href=&#34;https://tecnicanimal.me/p/the-alpine-ibex/mountain.jpeg&#34; data-size=&#34;1997x3000&#34;&gt;&lt;img src=&#34;https://tecnicanimal.me/p/the-alpine-ibex/mountain.jpeg&#34;
+				srcset=&#34;https://tecnicanimal.me/p/the-alpine-ibex/mountain_hudd96b46baae03c30b59626d259347ab5_495727_480x0_resize_q75_box.jpeg 480w, https://tecnicanimal.me/p/the-alpine-ibex/mountain_hudd96b46baae03c30b59626d259347ab5_495727_1024x0_resize_q75_box.jpeg 1024w&#34;
+				width=&#34;1997&#34;
+				height=&#34;3000&#34;
+				loading=&#34;lazy&#34;
+				&gt;
+		&lt;/a&gt;
+		
+	&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure style=&#34;flex-grow: 150; flex-basis: 360px&#34;&gt;
 		&lt;a href=&#34;https://tecnicanimal.me/p/the-alpine-ibex/alpine_ibex.jpeg&#34; data-size=&#34;3000x2000&#34;&gt;&lt;img src=&#34;https://tecnicanimal.me/p/the-alpine-ibex/alpine_ibex.jpeg&#34;
 				srcset=&#34;https://tecnicanimal.me/p/the-alpine-ibex/alpine_ibex_hu35c0595dfb359f54d0b8baeac2a42a3c_554897_480x0_resize_q75_box.jpeg 480w, https://tecnicanimal.me/p/the-alpine-ibex/alpine_ibex_hu35c0595dfb359f54d0b8baeac2a42a3c_554897_1024x0_resize_q75_box.jpeg 1024w&#34;
 				width=&#34;3000&#34;
