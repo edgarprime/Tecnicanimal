@@ -13,13 +13,13 @@ menu:
         pre: user
 ---
 
-Hi, I am Alessandro and I created this site in order to experiment writing articles and share some of my thoughts about tech, videogames and science.
+Hi, I am Alessandro Bolis and I created this site in order to experiment writing articles and share some of my thoughts about tech, videogames and science.
 
-This is a static site built with [Hugo](https://gohugo.io), hosted on [Github](https://github.com) and deployed through [Netlify](https://www.netlify.com). The theme i am using is [this one](https://themes.gohugo.io/hugo-theme-stack/). 
+This is a static site generated with [Hugo](https://gohugo.io), hosted on [Github](https://github.com) and deployed through [Netlify](https://www.netlify.com). The theme i am using is a modified version of [this one](https://themes.gohugo.io/hugo-theme-stack/). 
 
-If you want to contact me for any reason, feel free to do that by filling the contact form below.
+If you wish to contact me for any reason, feel free to go ahead and fill the contact form below or text me via [telegram](https://t.me/edgarprime). 
 
-
+<center>
 <form name="contact" method="POST" data-netlify="true">
   <div class="form-group row">
     <div class="col-8">
@@ -43,7 +43,7 @@ If you want to contact me for any reason, feel free to do that by filling the co
   </div>
   <div class="form-group row">
     <div class="col-8">
-      <textarea id="message" name="message" placeholder="Message" cols="40" rows="10" required="required" class="form-control"></textarea>
+      <textarea id="message" name="message" placeholder="Message" cols="30" rows="10" required="required" class="form-control"></textarea>
     </div>
   </div>
   <div class="field">
@@ -55,3 +55,4 @@ If you want to contact me for any reason, feel free to do that by filling the co
     </div>
   </div>
 </form>
+</center>
