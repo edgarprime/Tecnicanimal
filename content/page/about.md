@@ -13,7 +13,7 @@ menu:
         pre: user
 ---
 
-Hi, I am Alessandro Bolis and I created this site in order to experiment writing articles and share some of my thoughts about tech, videogames and science.
+Hi, I Alessandro Bolis and I created this site in order to experiment writing articles and share some of my thoughts about tech, videogames and science.
 
 This is a static site made with [Hugo](https://gohugo.io), hosted on [Github](https://github.com) and deployed through [Netlify](https://www.netlify.com). The theme i am using is a modified version of [this one](https://themes.gohugo.io/hugo-theme-stack/). 
 
