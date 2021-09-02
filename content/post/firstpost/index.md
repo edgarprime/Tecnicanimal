@@ -19,7 +19,7 @@ image = "Schermata 2021-04-30 alle 11.53.03.png"
 
 ## Introduction: Importance of audio
 
-A good gaming experience is not all about graphics and frame rate. Although they play a big role in making a videogame immersive, in my experience audio is one of the major components that drives sensations when experiencing digita l content. The same goes for movies according to [*George Lucas*](https://variety.com/2018/film/awards/sound-movie-blade-runner-get-out-phantom-thread-1202705398/).
+A good gaming experience is not all about graphics and frame rate. Although they play a big role in making a videogame immersive, in my experience audio is one of the major components that drives sensations when experiencing digital content. The same goes for movies according to [*George Lucas*](https://variety.com/2018/film/awards/sound-movie-blade-runner-get-out-phantom-thread-1202705398/).
 
 ---
 
